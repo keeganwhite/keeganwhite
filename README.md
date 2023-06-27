@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **keeganthomaswhite@gmail.com**
 
-- 📄 Find out more about me [CV](https://drive.google.com/file/d/1fMuy-Pyd-dv9pEIeCsdx0p67z6IwBkgy/view?usp=sharing](https://drive.google.com/file/d/1fMuy-Pyd-dv9pEIeCsdx0p67z6IwBkgy/view?usp=sharing)
+- 📄 Find out more about me [CV](https://drive.google.com/file/d/1fMuy-Pyd-dv9pEIeCsdx0p67z6IwBkgy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
