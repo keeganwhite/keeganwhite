@@ -49,6 +49,5 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keeganwhite&show_icons=true&locale=en" alt="keeganwhite" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keeganwhite&show_icons=true&locale=en" alt="keeganwhite" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keeganwhite&" alt="keeganwhite" /></p>
