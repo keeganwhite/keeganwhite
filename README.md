@@ -9,15 +9,10 @@
 
 - 🌱 I’m currently learning **everything Micro-controller related**
 
-- 👯 I’m looking to collaborate on [my open source work for iNethi NPO](https://github.com/iNethi)
-
-- 🤝 I’m looking for help with [automating a wireless community network set up](https://github.com/iNethi/gui-installer)
-
 - 💬 Ask me about **Docker and Software Defined Networking**
 
 - 📫 How to reach me **keeganthomaswhite@gmail.com**
 
-- 📄 Find out more about me [CV](https://drive.google.com/file/d/1fMuy-Pyd-dv9pEIeCsdx0p67z6IwBkgy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
