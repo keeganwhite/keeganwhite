@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keegan White</h1>
 <h3 align="center">A passionate founder and developer from Cape Town South Africa</h3>
 
-<p align="left"> <a href="https://twitter.com/keeganwhitetech" target="blank"><img src="https://img.shields.io/twitter/follow/keeganwhitetech?logo=twitter&style=for-the-badge" alt="keeganwhitetech" /></a> </p>
-
 - 🔭 I’m currently working on [my start up, Taurine Technology](https://www.taurinetech.com/)
 
 - 🌱 I’m currently learning **everything Micro-controller related**
